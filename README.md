@@ -4,7 +4,7 @@
 **Architect:** Shaktivel Kumaresan  
 **Profile:** Data Engineer | DataOps & Cloud  
 **Contact:** shaktivelkumaresan07@gmail.com  
-**Affiliation:** B.Tech CSE, SRMIST, Tiruchirappalli  
+**Affiliation:** B.Tech CSE, SRMIST, Tiruchirappalli  (pursuing)
 
 ---
 
